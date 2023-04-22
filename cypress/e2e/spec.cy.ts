@@ -21,7 +21,7 @@ describe('dashboard', () => {
   });
 
   it(`says hello from containers`, () => {
-    cy.contains('Hello from container!!');
+    cy.contains('Hello from srivalli!!');
   });
 
   it('can search', () => {
